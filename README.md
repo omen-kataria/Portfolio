@@ -1,4 +1,4 @@
-# Web Technology Assignment-1
+
 
 ## Personal Portfolio Website
 
@@ -7,12 +7,6 @@ This project is a Personal Portfolio Web Page developed using **HTML5 and CSS3 o
 The purpose of this assignment is to design and develop a responsive portfolio website that demonstrates basic front-end development skills such as structured HTML layout, CSS styling, responsive design, and organized content presentation.
 
 JavaScript and external frameworks are not used in this project.
-
----
-
-## Preview
-
-https://github.com/user-attachments/assets/d5645795-3ccc-467f-b1a7-f71f64815a14
 
 ---
 
